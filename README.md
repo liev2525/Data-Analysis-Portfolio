@@ -1,15 +1,5 @@
-# Profile
-All About Me
+Hello, and thanks for stopping by! This repository contains personal data analysis projects that I have done utilizing Python, SQL, Excel and PowerBI. Below are some of my highlighted projects, including data visualization, statistical analysis, and data-driven insights.
 
-🔭 I’m currently working on Global Anti-Money Laundering Source to Target Mapping Projects.
+For these projects, I start by conducting most of my analysis using Python. Additionally, I perform some minor analysis or adjustments in Excel. To replicate the analysis in a database environment, I simulated it in MySQL by uploading the data to my local MySQL instance. Ultimately, I visualized the results and findings by creating a PowerBI dashboard.
 
-💡 I'm interested in Data Analysis, Automation, and Machine Learning.
-
-💬 Talk to me about Card Games, Education Technology, Healthy Eating, and Crocheting.
-
-⚡ Fun fact, I like to garden fruits and vegetables.
-
-## Tech Stack
-Python MySQL C NumPy Pandas Matplotlib Plotly seaborn TensorFlow PyTorch Keras SciPy scikit-learn Arduino Power Bi Microsoft Word Microsoft Excel Microsoft PowerPoint Canva Anaconda Jupyter Notebook Google Colab PyCharm Visual Studio Code Git Obsidian Notepad++ MarkdownChatGPT
-
-## Connect With Me
+These projects reflect my skills in handling diverse datasets and extracting meaningful conclusions to support decision-making. Feel free to check them out and reach out for any questions or feedback.
