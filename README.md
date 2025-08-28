@@ -10,7 +10,7 @@ These projects reflect my skills in handling diverse datasets and extracting mea
 ## AMAZON SALES ANALYSIS
 In this project, I used a dataset found on kaggle to analyze automotive sales transactions, examining details like Order Number, Quantity Ordered, Price, Product Line, Customer Information, and other pertinent factors. By closely examining important elements such as sales volume, transaction sizes, customer demographics, and specific order details among different automobile models, my aim is to discover significant insights. The goal of this analysis is to offer the management, potential buyers and stakeholders a comprehensive comprehension of automotive sales trends, empowering them to make informed decisions.
 
-Key Objectives and Highlights
+#### Key Objectives and Highlights
 Sales Transaction Insights: Examining key sales transaction details such as quantity ordered, pricing, and deal sizes to understand the sales landscape.
 
 Product Line Performance: Evaluating the performance of various product lines across different deal sizes.
