@@ -1,6 +1,6 @@
 
 # Payment Card Fraud Detection-Dataset
-This dataset is having the data of 1K+ Amazon Product's Ratings and Reviews as per their details listed on the official website of Amazon
+The dataset is specifically designed for credit card fraud detection analysis, featuring 16 carefully curated columns that capture both transactional and behavioral patterns essential for building robust fraud detection models.
 
 ![image alt](https://github.com/liev2525/Amazon-Sales-Dataset/blob/e2b0133a7799f99fe3f9ddb23e5a4d2976906e96/sales_image.webp)
 ##
