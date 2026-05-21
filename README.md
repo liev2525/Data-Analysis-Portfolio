@@ -46,5 +46,5 @@ I am a Data Engineer with strong experience in business systems analysis, specia
 ### Dashboard Preview  
 <img width="599" height="399" alt="Dashboard" src="https://github.com/user-attachments/assets/12b4764a-3837-415f-ad3b-412bb7967d05" />
 
-### 📄 View Full PDF Documentation: [PDF Documentation](https://github.com/user-attachments/files/27775953/HotelBookingAnalyticsSolution.pdf)
+### 📄 View Full PDF Documentation (download): [PDF Documentation](https://github.com/user-attachments/files/27775953/HotelBookingAnalyticsSolution.pdf)
 
