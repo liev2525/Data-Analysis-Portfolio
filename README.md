@@ -4,19 +4,18 @@ Welcome to my Data Analysis project repository.
 
 I am a Data Engineer with strong experience in business systems analysis, specializing in transforming raw data into meaningful insights that support business and regulatory decision-making.
 
-This repository showcases projects focused on:
-- Exploratory Data Analysis (EDA)
-- Data visualization and dashboards
-- KPI development and business insights
-- SQL-based analytics and reporting
-
-🔗 **About Me**
-#### [👉 Explore my full background, work history, and certifications](https://liev2525.github.io/Elizondo_Portofolio_Page/)
-
 💼 Background:
 - Data Engineer II (Business Systems Analyst focus)
 - Experience in financial/regulatory systems (AML/KYC, reporting)
 - Tools: SQL, Python, Tableau, Power BI, Databricks
+
+#### [👉 Explore my full background, work history, and certifications](https://liev2525.github.io/Elizondo_Portofolio_Page/)
+
+#### This repository showcases projects focused on:
+- Exploratory Data Analysis (EDA)
+- Data visualization and dashboards
+- KPI development and business insights
+- SQL, Python, PySpark, and R-based analytics and reporting
 
 📁 Each project includes:
 - Business problem definition
